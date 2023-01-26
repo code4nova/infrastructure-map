@@ -1,4 +1,4 @@
-## How to setup Ushahidi Environemnt
+## How to setup Ushahidi Environment
 
 ### Setup Ushahidi Platform:
 1. `git clone https://github.com/ushahidi/platform.git`
