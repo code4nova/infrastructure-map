@@ -4,7 +4,7 @@
 1. `git clone https://github.com/ushahidi/platform.git`
 2. `cd platform/`
 3. `docker-compose build`
-4. Run`docker-compose up`Alternatively, you can use `docker-compose up -d` to run it in the background.
+4. Run `docker-compose up` Alternatively, you can use `docker-compose up -d` to run it in the background.
 
 ### Setup Ushahidi Platform-client
 1. `git clone https://github.com/ushahidi/platform-client.git`
